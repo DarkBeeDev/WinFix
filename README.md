@@ -1,8 +1,8 @@
 # WinFix
 This tool *WinFix* is an automated batch script of SFC (System File Checker) Script.
-===========================================
+______________________________________________________________________________________
     DarkBee - SYSTEM REPAIR TOOL v2.0
-===========================================
+_____________________________________
 Created by: DarkBee
 Project: WinFix 
 
@@ -24,6 +24,7 @@ software crashes or OS errors.
 - Always run as Administrator or the scan will fail.
 - Wait until it hits 100% then restart else it wont fix anything
 - Runs on only x64 based architecture.
-===========================================
+
+___________________________
 Stay Safe. Stay Coding!
-===========================================
+________________________
